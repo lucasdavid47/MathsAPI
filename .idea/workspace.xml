@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="967d324c-c511-4abe-abe7-7feba3e242ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/matrix/ColumnMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/matrix/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/matrix/RowMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -37,10 +42,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="matrix" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,5 +76,21 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="432" y="163" key="#Project_Structure/1680.152.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1585405348327" />
+    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1585411923978">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser/1680.152.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1585411923978" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1585426296050">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/1680.152.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1585426296050" />
+    <state x="536" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1585419398997">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="536" y="329" key="com.intellij.ide.util.TipDialog/1680.152.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1585419398997" />
+    <state x="611" y="208" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585411931286">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="611" y="208" key="com.intellij.testIntegration.createTest.CreateTestDialog/1680.152.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1585411931286" />
   </component>
 </project>
